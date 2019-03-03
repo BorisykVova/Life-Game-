@@ -1,0 +1,23 @@
+{
+  "name": "app",
+  "version": "1.0.0",
+  "description": "Dd",
+  "main": "12",
+  "dependencies": {
+    "json": "^9.0.6",
+    "readline-sync": "^1.4.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "node app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "Noune"
+  },
+  "keywords": [
+    "Noune"
+  ],
+  "author": "Doc",
+  "license": "UNLICENSED"
+}
